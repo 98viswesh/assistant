@@ -13,7 +13,7 @@ var phone_no;
     var task = cron.schedule('* * * * *', () => {
 
         console.log('Printing this line every minute.');
-        var url="https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJ_xd6NgnBwjsRBk1ofFNtLNI&fields=international_phone_number,opening_hours,website,price_level,rating,user_ratings_total,formatted_address,name&key=AIzaSyBeVXKyh_QfcB8d0Dc0Or29LyUAsGd96-U";
+        var url="https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJ_xd6NgnBwjsRBk1ofFNtLNI&fields=international_phone_number,opening_hours,website,price_level,rating,user_ratings_total,formatted_address,name&key=YOUR_API_KEY";
         var https = require('https');
         var dat;
         var body ='';
