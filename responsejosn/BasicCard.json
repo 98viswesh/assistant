@@ -1,0 +1,34 @@
+{ 
+    "payload" : {
+     "google": {
+      "expectUserResponse": true,
+      "richResponse": {
+        "items": [
+          {
+            "basicCard": {
+              "title": "",
+              "formattedText":"Links",
+              
+              "buttons": [
+                {
+                  "title": "View",
+                  "openUrlAction": {
+                    "url": "https://www.google.com"
+                  }
+                }
+              ],
+              "imageDisplayOptions": "WHITE"
+            }
+          },
+          {
+            "simpleResponse": {
+              "textToSpeech": "Do you want to open the App?"
+            }
+          }          
+          
+        ]
+      }
+    }
+  }
+}
+

@@ -1,0 +1,29 @@
+ {
+    "google": {
+        "expectUserResponse": true,
+        "richResponse": {
+            "items": [
+                {
+                    "simpleResponse": {
+                        "textToSpeech": "This is a carousel"
+                    }
+                }
+            ]
+        },
+        "systemIntent": {
+            "intent": "actions.intent.OPTION",
+            "data": {
+                "@type": "type.googleapis.com/google.actions.v2.OptionValueSpec",
+                "listSelect": {
+                    "items": [
+                       
+                    ]
+                }
+            }
+        }
+    }
+}
+
+
+
+

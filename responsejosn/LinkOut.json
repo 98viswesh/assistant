@@ -1,0 +1,38 @@
+{
+    "payload": {
+      "google": {
+        "expectUserResponse": false,
+        "richResponse": {
+          "items": [
+            {
+                "simpleResponse": {
+                  "textToSpeech": "Sure. Have a look."
+                }
+              },
+            {
+              "basicCard": {
+                "title": "Offer!!",
+                
+                "formattedText": "Here is an offer",
+
+                "buttons": [
+                  {
+                    "title": "View",
+                    "openUrlAction": {
+                      "url": "https://assistant.google.com/"
+                    }
+                  }
+                ],
+                "imageDisplayOptions": "CROPPED"
+              }
+            },
+            {
+              "simpleResponse": {
+                "textToSpeech": "Thanks. Have a great day."
+              }
+            }
+          ]
+        }
+      }
+    }
+  }

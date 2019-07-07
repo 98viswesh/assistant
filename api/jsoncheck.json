@@ -1,0 +1,96 @@
+{
+    "html_attributions" : [],
+    "result" : {
+       "formatted_address" : "Survey No. 35/36, North Main Road, Ghorpadi Rd, Koregaon Park Annexe, Koregaon Park, Pune, Maharashtra 411001, India",
+       "international_phone_number" : "+91 20 2688 0888",
+       "name" : "A B C Farms Pvt Ltd",
+       "opening_hours" : {
+          "open_now" : true,
+          "periods" : [
+             {
+                "close" : {
+                   "day" : 0,
+                   "time" : "2100"
+                },
+                "open" : {
+                   "day" : 0,
+                   "time" : "0700"
+                }
+             },
+             {
+                "close" : {
+                   "day" : 1,
+                   "time" : "2100"
+                },
+                "open" : {
+                   "day" : 1,
+                   "time" : "0700"
+                }
+             },
+             {
+                "close" : {
+                   "day" : 2,
+                   "time" : "2100"
+                },
+                "open" : {
+                   "day" : 2,
+                   "time" : "0700"
+                }
+             },
+             {
+                "close" : {
+                   "day" : 3,
+                   "time" : "2100"
+                },
+                "open" : {
+                   "day" : 3,
+                   "time" : "0700"
+                }
+             },
+             {
+                "close" : {
+                   "day" : 4,
+                   "time" : "2100"
+                },
+                "open" : {
+                   "day" : 4,
+                   "time" : "0700"
+                }
+             },
+             {
+                "close" : {
+                   "day" : 5,
+                   "time" : "2100"
+                },
+                "open" : {
+                   "day" : 5,
+                   "time" : "0700"
+                }
+             },
+             {
+                "close" : {
+                   "day" : 6,
+                   "time" : "2100"
+                },
+                "open" : {
+                   "day" : 6,
+                   "time" : "0700"
+                }
+             }
+          ],
+          "weekday_text" : [
+             "Monday: 7:00 AM – 9:00 PM",
+             "Tuesday: 7:00 AM – 9:00 PM",
+             "Wednesday: 7:00 AM – 9:00 PM",
+             "Thursday: 7:00 AM – 9:00 PM",
+             "Friday: 7:00 AM – 9:00 PM",
+             "Saturday: 7:00 AM – 9:00 PM",
+             "Sunday: 7:00 AM – 9:00 PM"
+          ]
+       },
+       "rating" : 4.2,
+       "user_ratings_total" : 461,
+       "website" : "http://www.abcfarms.com/"
+    },
+    "status" : "OK"
+ }

@@ -1,0 +1,41 @@
+{
+  "payload": {
+    "google": {
+      "expectUserResponse": true,
+      "richResponse": {
+        "items": [
+          {
+            "simpleResponse": {
+              "textToSpeech": ""
+            }
+          }
+        ]
+      },
+      "systemIntent": {
+        "intent": "actions.intent.OPTION",
+        "data": {
+          "@type": "type.googleapis.com/google.actions.v2.OptionValueSpec",
+          "listSelect": {
+            "title": "",
+            "items": [
+              {
+                "optionInfo": {
+                  "key": ""
+                },
+                "description": "",
+                "title": ""
+              },
+              {
+                "optionInfo": {
+                  "key": ""
+                },
+                "description": "",
+                "title": ""
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

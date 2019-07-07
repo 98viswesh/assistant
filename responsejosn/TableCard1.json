@@ -1,0 +1,22 @@
+{
+    "payload": {
+      "google": {
+        "expectUserResponse": false,
+        "richResponse": {
+          "items": [
+            {
+              "simpleResponse": {
+                "textToSpeech": ""
+              }
+            },
+            {
+              "tableCard": {
+                "rows": [],
+                "columnProperties": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
