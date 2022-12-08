@@ -19,7 +19,7 @@
     "cron": "^1.7.1",
     "dateformat": "^3.0.3",
     "dialogflow-fulfillment": "^0.6.1",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "google-maps-geocoder": "^1.0.1",
     "install": "^0.12.1",
     "mysql": "^2.16.0",
